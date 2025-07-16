@@ -43,3 +43,34 @@ def max_subarray_kadane(nums):
 
 res = max_subarray_kadane(nums)
 print(res)
+----------------------------------
+-----------------------
+------------
+LeetCode Problems:
+Maximum Product Subarray – LeetCode #152
+
+Like Kadane’s algorithm but for products. Tricky with negative numbers.
+
+Best Time to Buy and Sell Stock – LeetCode #121
+
+Find the maximum profit you can achieve; a variant of max subarray.
+
+Maximum Sum Circular Subarray – LeetCode #918
+
+Kadane’s algorithm + circular subarrays. Very useful extension.
+
+Maximum Length of Subarray With Positive Product – LeetCode #1567
+
+Variation with sign tracking.
+
+Contiguous Array – LeetCode #525
+
+Maximum length of a contiguous subarray with equal number of 0s and 1s.
+
+Subarray Sum Equals K – LeetCode #560
+
+Prefix sums and hash map.
+
+Find the Longest Subarray With Equal Number of 0 and 1 – LeetCode #325
+
+Similar to #560, but focused on length.
